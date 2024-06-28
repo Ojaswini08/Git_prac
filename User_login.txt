@@ -1,2 +1,4 @@
 USER= "ABC"
 PASSWORD= admin12
+
+You have to login using username and password
